@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá! Eu sou o Luccas Matheus 👋
 
-<!--
-**luccasmsm/luccasmsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação (3º período)  
+💻 Apaixonado por tecnologia, programação e cibersegurança  
+🚀 Em busca de estágio na área de TI (Infraestrutura, Suporte ou Desenvolvimento)
 
-Here are some ideas to get you started:
+## 🧰 Tecnologias que estou aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, C
+- Git e GitHub
+- Suporte de TI (Google Coursera)
+- Redes e Segurança da Informação
+
+  ## 📫 email de contato: luccasms4@gmail.com
+
+## 📂 Projetos em destaque
+
+🔹 [Projeto X](https://github.com/luccasmsm/aula-ergonomia) – Área de login personalizada HTML CSS  
+🔹 [Projeto Y](https://github.com/luccasmsm/aula-ergonomia2) – Site de skincare GlowUp  
+
+  
+  
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luccasmsm&show_icons=true&theme=dracula)
+
