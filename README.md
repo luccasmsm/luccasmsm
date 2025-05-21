@@ -11,7 +11,8 @@
 - Suporte de TI 
 - Redes e Segurança da Informação
 
-  ## 📫 email de contato: luccasms4@gmail.com
+## 📫 email para contato: 
+luccasms4@gmail.com
 
 ## 📂 Projetos em destaque
 
