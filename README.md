@@ -8,7 +8,7 @@
 
 - Python, C
 - Git e GitHub
-- Suporte de TI (Google Coursera)
+- Suporte de TI 
 - Redes e Segurança da Informação
 
   ## 📫 email de contato: luccasms4@gmail.com
